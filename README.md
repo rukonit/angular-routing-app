@@ -1,6 +1,6 @@
 # Angular Routing App Frontend
 
-This project is demonstrate the use of routing in angular and a fake login method. 
+This project is demonstrate the use of routing in angular and a fake login method. The purpose of this app is practice the use of angular routing, auth-service, canActive and canDeactivate.
 
 ## How to Use
 
