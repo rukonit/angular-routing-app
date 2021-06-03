@@ -1,10 +1,18 @@
-# MyFirstApp
+# Angular Routing App Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project is demonstrate the use of routing in angular and a fake login method. 
 
-## Development server
+## How to Use
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to `https://angular-routing-frontend.netlify.app/`. To use login, please click on login and wait for 800ms and then nevigate to the server page. After login you should be able to view servers and as well as edit servers.
+
+## Technology Used
+1. HTML
+2. CSS
+3. JavaScript
+4. TypeScript
+5. Angular 2+
+6. Bootstrap
 
 ## Code scaffolding
 
