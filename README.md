@@ -4,7 +4,7 @@ This project is demonstrate the use of routing in angular and a fake login metho
 
 ## How to Use
 
-Navigate to [https://angular-routing-frontend.netlify.app](https://angular-routing-frontend.netlify.app). To use login, please click on login and wait for 800ms and then nevigate to the server page. After login you should be able to view servers and as well as edit servers.
+Navigate to [https://angular-routing-frontend.netlify.app](https://angular-routing-frontend.netlify.app). To use login, please click on login and wait for 800ms and then nevigate to the server page. After login you should be able to view servers and as well as edit servers. The current login is just an fake login for test purposes.
 
 ## Technology Used
 1. HTML
